@@ -155,6 +155,7 @@ No known bugs at this time.
 
 ## Authors  
 Henock Adane - [Github](https://github.com/Henock-Adane)
+Emmanuel Alex - [Github](https://github.com/KodianKodes)
 
 ## License
 Public Domain. No copy write protection. 
